@@ -1,35 +1,37 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml:1:1-61
-INJECTED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml:1:1-61
-INJECTED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml:1:1-61
-INJECTED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml:1:1-61
-INJECTED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml:1:1-61
-INJECTED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml:1:1-61
-INJECTED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml:1:1-61
+ADDED from /Users/bearkinf/Project/Android_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml:1:1-61
+INJECTED from /Users/bearkinf/Project/Android_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml:1:1-61
+INJECTED from /Users/bearkinf/Project/Android_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml:1:1-61
+INJECTED from /Users/bearkinf/Project/Android_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml:1:1-61
+INJECTED from /Users/bearkinf/Project/Android_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml:1:1-61
+INJECTED from /Users/bearkinf/Project/Android_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml:1:1-61
+INJECTED from /Users/bearkinf/Project/Android_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml:1:1-61
 	package
-		ADDED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml:1:11-58
-		INJECTED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml
-		INJECTED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml
+		ADDED from /Users/bearkinf/Project/Android_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml:1:11-58
+		INJECTED from /Users/bearkinf/Project/Android_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml
+		INJECTED from /Users/bearkinf/Project/Android_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml
-		ADDED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml:1:1-61
-		INJECTED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml
+		INJECTED from /Users/bearkinf/Project/Android_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml
+		ADDED from /Users/bearkinf/Project/Android_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml:1:1-61
+		INJECTED from /Users/bearkinf/Project/Android_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/bearkinf/Project/Android_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml:1:1-61
 	android:versionCode
-		INJECTED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml
-		ADDED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml:1:1-61
-		INJECTED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml
+		INJECTED from /Users/bearkinf/Project/Android_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml
+		ADDED from /Users/bearkinf/Project/Android_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml:1:1-61
+		INJECTED from /Users/bearkinf/Project/Android_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml
 uses-sdk
-INJECTED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml
-INJECTED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml
-INJECTED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml
-INJECTED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml
+INJECTED from /Users/bearkinf/Project/Android_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/bearkinf/Project/Android_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml
+INJECTED from /Users/bearkinf/Project/Android_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml
+INJECTED from /Users/bearkinf/Project/Android_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml
+INJECTED from /Users/bearkinf/Project/Android_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml
-		ADDED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml
-		INJECTED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml
+		INJECTED from /Users/bearkinf/Project/Android_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml
+		ADDED from /Users/bearkinf/Project/Android_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml
+		INJECTED from /Users/bearkinf/Project/Android_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml
-		ADDED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml
-		INJECTED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml
+		INJECTED from /Users/bearkinf/Project/Android_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml
+		ADDED from /Users/bearkinf/Project/Android_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml
+		INJECTED from /Users/bearkinf/Project/Android_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/src/main/AndroidManifest.xml
