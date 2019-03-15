@@ -126,5 +126,6 @@
     <orderEntry type="library" name="Gradle: com.android.support:animated-vector-drawable:26.1.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: net.sf.kxml:kxml2:2.3.0@jar" level="project" />
     <orderEntry type="module" module-name="backkey_library_java" />
+    <orderEntry type="module" module-name="backkey_library_java" />
   </component>
 </module>
