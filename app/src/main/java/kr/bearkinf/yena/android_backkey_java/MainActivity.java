@@ -9,20 +9,13 @@ import kr.bearkinf.yena.backkey_library_java.BackKeyFinishHandler;
 
 public class MainActivity extends AppCompatActivity {
 
-
-    BackKeyFinishHandler backKeyFinishHandler;
-
+    private BackKeyFinishHandler backKeyFinishHandler;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
         backKeyFinishHandler = new BackKeyFinishHandler(this);
-
-
-        Log.d("bear","start");
-
     }
 
 

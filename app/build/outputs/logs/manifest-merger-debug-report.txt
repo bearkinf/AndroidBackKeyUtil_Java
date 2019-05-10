@@ -1,153 +1,153 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:2:1-21:12
-MERGED from [:backkey_library_java] /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-12:12
-MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/70ac9310ed4093acd84f7872fbeb8b7c/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/01626a90b9cc2a7f8818836aeab8cda3/AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4d8a777da079609f2affd47cdb5c5427/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/59f894b84d33082314338381e0c531d9/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/cdcea8e9cc8d44d7badfd7f1661da0f0/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/852d81cbbb7c6b2e78b5b3b740942391/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/fd06809c7838a834ec5273c5db1d57ca/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/873e6dc3b8cc1fb7036b6ad2b8230a55/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/66e2fb9e21b72e843ac22d2031238967/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4d5095456b1e21d42e5e33ff0dc8bce6/AndroidManifest.xml:17:1-31:12
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/f54d3c4ee9602f887a6ff708c154580b/AndroidManifest.xml:17:1-30:12
-INJECTED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:2:1-21:12
+ADDED from /Users/bearkinf/Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/bearkinf/Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/bearkinf/Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/bearkinf/Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [:backkey_library_java] /Users/bearkinf/Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/19195c0d5e8acc33d432f91b829b9fc4/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/84ecd07690071297db5d04d1de112dc4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/53f452f95ec761a87628107c367d828e/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/013ddd379f783610a7dde31bbca59c59/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/58445f033e265ae1fb18084ac03720a1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/ee09aa2b57fa95cf1d1c9903e69db820/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/4a6d4893994de7f4e1ee2d6eff399d61/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/f85978a78c657a30f5df3772e8cc7902/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/fbf16ecc245b914356f1907982c84316/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/adcd335e68eb497eb2bdcc7f44b386dd/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/79aec5aeb627a956fd8c7d9c0efd487f/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/bearkinf/Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/bearkinf/Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/bearkinf/Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:2:1-21:12
 	package
-		ADDED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:3:5-52
-		INJECTED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bearkinf/Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:3:5-52
+		INJECTED from /Users/bearkinf/Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bearkinf/Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml
-		ADDED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:2:1-21:12
-		INJECTED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bearkinf/Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bearkinf/Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/bearkinf/Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml
-		ADDED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:2:1-21:12
-		INJECTED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bearkinf/Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bearkinf/Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/bearkinf/Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/bearkinf/Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:5:5-19:19
-MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/70ac9310ed4093acd84f7872fbeb8b7c/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/70ac9310ed4093acd84f7872fbeb8b7c/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/01626a90b9cc2a7f8818836aeab8cda3/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/01626a90b9cc2a7f8818836aeab8cda3/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4d8a777da079609f2affd47cdb5c5427/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4d8a777da079609f2affd47cdb5c5427/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/59f894b84d33082314338381e0c531d9/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/59f894b84d33082314338381e0c531d9/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-v4:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/cdcea8e9cc8d44d7badfd7f1661da0f0/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/cdcea8e9cc8d44d7badfd7f1661da0f0/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/852d81cbbb7c6b2e78b5b3b740942391/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/852d81cbbb7c6b2e78b5b3b740942391/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/fd06809c7838a834ec5273c5db1d57ca/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/fd06809c7838a834ec5273c5db1d57ca/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/873e6dc3b8cc1fb7036b6ad2b8230a55/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/873e6dc3b8cc1fb7036b6ad2b8230a55/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/66e2fb9e21b72e843ac22d2031238967/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/66e2fb9e21b72e843ac22d2031238967/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4d5095456b1e21d42e5e33ff0dc8bce6/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4d5095456b1e21d42e5e33ff0dc8bce6/AndroidManifest.xml:25:5-29:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/f54d3c4ee9602f887a6ff708c154580b/AndroidManifest.xml:24:5-28:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/f54d3c4ee9602f887a6ff708c154580b/AndroidManifest.xml:24:5-28:19
+ADDED from /Users/bearkinf/Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/19195c0d5e8acc33d432f91b829b9fc4/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/19195c0d5e8acc33d432f91b829b9fc4/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/84ecd07690071297db5d04d1de112dc4/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/84ecd07690071297db5d04d1de112dc4/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/53f452f95ec761a87628107c367d828e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/53f452f95ec761a87628107c367d828e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/013ddd379f783610a7dde31bbca59c59/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/013ddd379f783610a7dde31bbca59c59/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/58445f033e265ae1fb18084ac03720a1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/58445f033e265ae1fb18084ac03720a1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/ee09aa2b57fa95cf1d1c9903e69db820/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/ee09aa2b57fa95cf1d1c9903e69db820/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/4a6d4893994de7f4e1ee2d6eff399d61/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/4a6d4893994de7f4e1ee2d6eff399d61/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/f85978a78c657a30f5df3772e8cc7902/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/f85978a78c657a30f5df3772e8cc7902/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/fbf16ecc245b914356f1907982c84316/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/fbf16ecc245b914356f1907982c84316/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/adcd335e68eb497eb2bdcc7f44b386dd/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/adcd335e68eb497eb2bdcc7f44b386dd/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/79aec5aeb627a956fd8c7d9c0efd487f/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/79aec5aeb627a956fd8c7d9c0efd487f/AndroidManifest.xml:24:5-28:19
 	android:supportsRtl
-		ADDED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /Users/bearkinf/Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /Users/bearkinf/Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /Users/bearkinf/Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /Users/bearkinf/Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /Users/bearkinf/Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:11:9-40
+		ADDED from /Users/bearkinf/Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:11:9-40
 activity#kr.bearkinf.yena.android_backkey_java.MainActivity
-ADDED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:12:9-18:20
+ADDED from /Users/bearkinf/Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:12:19-47
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:13:13-17:29
+		ADDED from /Users/bearkinf/Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/bearkinf/Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:14:17-69
+ADDED from /Users/bearkinf/Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:14:25-66
+		ADDED from /Users/bearkinf/Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:16:17-77
+ADDED from /Users/bearkinf/Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:16:27-74
+		ADDED from /Users/bearkinf/Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml:16:27-74
 uses-sdk
-INJECTED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml
-INJECTED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml
-MERGED from [:backkey_library_java] /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/build/intermediates/manifests/full/debug/AndroidManifest.xml:8:5-10:41
-MERGED from [:backkey_library_java] /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/build/intermediates/manifests/full/debug/AndroidManifest.xml:8:5-10:41
-MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/70ac9310ed4093acd84f7872fbeb8b7c/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/70ac9310ed4093acd84f7872fbeb8b7c/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/01626a90b9cc2a7f8818836aeab8cda3/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/01626a90b9cc2a7f8818836aeab8cda3/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4d8a777da079609f2affd47cdb5c5427/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4d8a777da079609f2affd47cdb5c5427/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/59f894b84d33082314338381e0c531d9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/59f894b84d33082314338381e0c531d9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/cdcea8e9cc8d44d7badfd7f1661da0f0/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/cdcea8e9cc8d44d7badfd7f1661da0f0/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/852d81cbbb7c6b2e78b5b3b740942391/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/852d81cbbb7c6b2e78b5b3b740942391/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/fd06809c7838a834ec5273c5db1d57ca/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/fd06809c7838a834ec5273c5db1d57ca/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/873e6dc3b8cc1fb7036b6ad2b8230a55/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/873e6dc3b8cc1fb7036b6ad2b8230a55/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/66e2fb9e21b72e843ac22d2031238967/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/66e2fb9e21b72e843ac22d2031238967/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4d5095456b1e21d42e5e33ff0dc8bce6/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4d5095456b1e21d42e5e33ff0dc8bce6/AndroidManifest.xml:21:5-23:58
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/f54d3c4ee9602f887a6ff708c154580b/AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/f54d3c4ee9602f887a6ff708c154580b/AndroidManifest.xml:20:5-22:41
-INJECTED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml
-INJECTED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml
+INJECTED from /Users/bearkinf/Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/bearkinf/Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml
+INJECTED from /Users/bearkinf/Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml
+MERGED from [:backkey_library_java] /Users/bearkinf/Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:backkey_library_java] /Users/bearkinf/Project/Git/AndroidBackKeyUtil_Java/backkey_library_java/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/19195c0d5e8acc33d432f91b829b9fc4/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/19195c0d5e8acc33d432f91b829b9fc4/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/84ecd07690071297db5d04d1de112dc4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/84ecd07690071297db5d04d1de112dc4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/53f452f95ec761a87628107c367d828e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/53f452f95ec761a87628107c367d828e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/013ddd379f783610a7dde31bbca59c59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/013ddd379f783610a7dde31bbca59c59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/58445f033e265ae1fb18084ac03720a1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/58445f033e265ae1fb18084ac03720a1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/ee09aa2b57fa95cf1d1c9903e69db820/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/ee09aa2b57fa95cf1d1c9903e69db820/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/4a6d4893994de7f4e1ee2d6eff399d61/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/4a6d4893994de7f4e1ee2d6eff399d61/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/f85978a78c657a30f5df3772e8cc7902/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/f85978a78c657a30f5df3772e8cc7902/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/fbf16ecc245b914356f1907982c84316/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/fbf16ecc245b914356f1907982c84316/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/adcd335e68eb497eb2bdcc7f44b386dd/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/adcd335e68eb497eb2bdcc7f44b386dd/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/79aec5aeb627a956fd8c7d9c0efd487f/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/79aec5aeb627a956fd8c7d9c0efd487f/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/bearkinf/Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml
+INJECTED from /Users/bearkinf/Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/70ac9310ed4093acd84f7872fbeb8b7c/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/19195c0d5e8acc33d432f91b829b9fc4/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml
-		ADDED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bearkinf/Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bearkinf/Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bearkinf/Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml
-		ADDED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/bearkinf-mac/B_Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bearkinf/Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bearkinf/Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bearkinf/Project/Git/AndroidBackKeyUtil_Java/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/70ac9310ed4093acd84f7872fbeb8b7c/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4d8a777da079609f2affd47cdb5c5427/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4d8a777da079609f2affd47cdb5c5427/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/59f894b84d33082314338381e0c531d9/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/59f894b84d33082314338381e0c531d9/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-v4:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/cdcea8e9cc8d44d7badfd7f1661da0f0/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-v4:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/cdcea8e9cc8d44d7badfd7f1661da0f0/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/852d81cbbb7c6b2e78b5b3b740942391/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/852d81cbbb7c6b2e78b5b3b740942391/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/fd06809c7838a834ec5273c5db1d57ca/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/fd06809c7838a834ec5273c5db1d57ca/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/873e6dc3b8cc1fb7036b6ad2b8230a55/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/873e6dc3b8cc1fb7036b6ad2b8230a55/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/66e2fb9e21b72e843ac22d2031238967/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/66e2fb9e21b72e843ac22d2031238967/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4d5095456b1e21d42e5e33ff0dc8bce6/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4d5095456b1e21d42e5e33ff0dc8bce6/AndroidManifest.xml:26:9-28:38
+ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/19195c0d5e8acc33d432f91b829b9fc4/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/53f452f95ec761a87628107c367d828e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/53f452f95ec761a87628107c367d828e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/013ddd379f783610a7dde31bbca59c59/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/013ddd379f783610a7dde31bbca59c59/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/58445f033e265ae1fb18084ac03720a1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/58445f033e265ae1fb18084ac03720a1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/ee09aa2b57fa95cf1d1c9903e69db820/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/ee09aa2b57fa95cf1d1c9903e69db820/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/4a6d4893994de7f4e1ee2d6eff399d61/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/4a6d4893994de7f4e1ee2d6eff399d61/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/f85978a78c657a30f5df3772e8cc7902/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/f85978a78c657a30f5df3772e8cc7902/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/fbf16ecc245b914356f1907982c84316/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/fbf16ecc245b914356f1907982c84316/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/adcd335e68eb497eb2bdcc7f44b386dd/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/adcd335e68eb497eb2bdcc7f44b386dd/AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/70ac9310ed4093acd84f7872fbeb8b7c/AndroidManifest.xml:28:13-35
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/19195c0d5e8acc33d432f91b829b9fc4/AndroidManifest.xml:28:13-35
 	android:name
-		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/70ac9310ed4093acd84f7872fbeb8b7c/AndroidManifest.xml:27:13-51
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/19195c0d5e8acc33d432f91b829b9fc4/AndroidManifest.xml:27:13-51
 meta-data#android.arch.lifecycle.VERSION
-ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/f54d3c4ee9602f887a6ff708c154580b/AndroidManifest.xml:25:9-27:47
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/79aec5aeb627a956fd8c7d9c0efd487f/AndroidManifest.xml:25:9-27:47
 	android:value
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/f54d3c4ee9602f887a6ff708c154580b/AndroidManifest.xml:27:13-44
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/79aec5aeb627a956fd8c7d9c0efd487f/AndroidManifest.xml:27:13-44
 	android:name
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/bearkinf-mac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/f54d3c4ee9602f887a6ff708c154580b/AndroidManifest.xml:26:13-58
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/bearkinf/.gradle/caches/transforms-2/files-2.1/79aec5aeb627a956fd8c7d9c0efd487f/AndroidManifest.xml:26:13-58
